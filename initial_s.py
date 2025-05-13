@@ -12,7 +12,7 @@ pygame.display.set_caption("Draw Initial S")
 
 
 # Colors
-Orange = (255, 165, 0)  
+Red = (255, 165, 0)  
 Black = (0, 0, 0)  
 
 
@@ -25,7 +25,7 @@ while GameLoop:
 
 
     # Fill the screen with Orange
-    display.fill(Orange)  
+    display.fill(Red)  
 
 
     # Draw "S" using rectangles in Black
